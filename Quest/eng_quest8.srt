@@ -1,0 +1,83 @@
+QUESTID:8
+MAXPAGE:4
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:3
+POSX:25
+POSY:45
+Now lets learn how to use Status.
+POSX:25
+POSY:65
+First, open the 'Digimon Information' window.
+POSX:25
+POSY:86
+You can also press the 'D' key.
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+The Digimon Information
+POSX:25
+POSY:65
+will show information about me.
+POSX:25
+POSY:85
+If you look there, you will see a PT
+POSX:25
+POSY:105
+and below it will be a yellow triangle.
+POSX:25
+POSY:125
+If you press it, your skill will increase.
+POSX:25
+POSY:145
+Listen to the explanation first and
+POSX:25
+POSY:165
+then press it.
+PAGE:3
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+Your basic skill includes STR, DEX, CON 
+POSX:25
+POSY:65
+and INT.
+POSX:25
+POSY:85
+The Striking Power is increased with STR.
+POSX:25
+POSY:105
+DEX helps you attack faster as well 
+POSX:25
+POSY:125
+as avoid enemy attacks.
+POSX:25
+POSY:145
+HP is increased with CON.
+POSX:25
+POSY:165
+Death blow is increased with INT
+PAGE:4
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+These four skills can be increased 
+POSX:25
+POSY:64
+only as much as your PT number.
+POSX:25
+POSY:84
+Now, try increasing your status point
+

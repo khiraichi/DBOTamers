@@ -1,0 +1,16 @@
+QUESTID:7
+MAXPAGE:1
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+이제 스탯을 올리는 방법을 배우기 위해서
+POSX:25
+POSY:65
+레벨을 올려보자.
+POSX:25
+POSY:85
+초반이기 때문에 레벨 올리는 게 쉬울꺼야.

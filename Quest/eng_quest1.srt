@@ -1,0 +1,105 @@
+QUESTID:1
+MAXPAGE:5
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+This is Tamer, he will be
+POSX:25
+POSY:65
+standing for you.
+POSX:25
+POSY:85
+Digimons need Tamer in order to evolve,
+POSX:25
+POSY:105
+and so Tamer is very important.
+POSX:25
+POSY:125
+....
+POSX:25
+POSY:145
+....
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:5
+POSX:25
+POSY:45
+If you look on the bottom middle part of 
+POSX:25
+POSY:65
+the screen, you can see Digimon icons.
+POSX:25
+POSY:85
+Each of these buttons 
+POSX:25
+POSY:105
+show imporant pieces of information.
+POSX:25
+POSY:125
+Move the mouse over to see the name.
+PAGE:3
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+....
+POSX:25
+POSY:65
+....
+POSX:25
+POSY:85
+You can also press the 'T' key.
+POSX:25
+POSY:105
+This window shows information
+POSX:25
+POSY:125
+about you.
+PAGE:4
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+Try pressing the button marked
+POSX:25
+POSY:65
+'Digimon Information'.
+POSX:25
+POSY:85
+You can also pree the 'D' key.
+POSX:25
+POSY:105
+This window shows information
+POSX:25
+POSY:125
+about your partner, which is me.
+PAGE:5
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+Try pressing the button marked 'Inventory'
+POSX:25
+POSY:65
+....
+POSX:25
+POSY:85
+You can press the 'I' key.
+POSX:25
+POSY:105
+You have no items
+POSX:25
+POSY:125
+Items will appear here as you collect them.

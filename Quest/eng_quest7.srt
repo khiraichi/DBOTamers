@@ -1,0 +1,19 @@
+QUESTID:7
+MAXPAGE:1
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:4
+POSX:25
+POSY:45
+Now lets go up a level and 
+POSX:25
+POSY:65
+learn how to use status point
+POSX:25
+POSY:85
+It's easy to go up a level 
+POSX:25
+POSY:105
+in the early stages of the game.

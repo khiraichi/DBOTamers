@@ -1,0 +1,28 @@
+QUESTID:9
+MAXPAGE:1
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+Now, let's try to use skill.
+POSX:25
+POSY:65
+You should be at level 6 to use the skills.
+POSX:25
+POSY:85
+At level 6,
+POSX:25
+POSY:105
+you can increase skill points in the
+POSX:25
+POSY:125
+Digimon Information window.
+POSX:25
+POSY:145
+Let's level up, and try using 
+POSX:25
+POSY:165
+skills during a battle.

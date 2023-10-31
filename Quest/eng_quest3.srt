@@ -1,0 +1,93 @@
+QUESTID:3
+MAXPAGE:5
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:5
+POSX:25
+POSY:45
+Do you see the Digimons walking
+POSX:25
+POSY:65
+on the street?
+POSX:25
+POSY:85
+Click on the Digimons to battle them.
+POSX:25
+POSY:105
+Wait for me
+POSX:25
+POSY:125
+I'll teach you how to battle.
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:5
+POSX:25
+POSY:45
+If you look on the bottom left,
+POSX:25
+POSY:65
+you'll see an HP in red.
+POSX:25
+POSY:85
+Enemy attacks will cause this to decrease,
+POSX:25
+POSY:105
+and if it runs out, you will collapse.
+POSX:25
+POSY:125
+Then you'll lose the battle.
+PAGE:3
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+You need the blue VP to
+POSX:25
+POSY:65
+use the death blow.
+POSX:25
+POSY:105
+Level 6 and above can use the death blow.
+PAGE:4
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+Below is the EVP, 
+POSX:25
+POSY:65
+which represents evolution points. 
+POSX:25
+POSY:85
+Evolution begins from Level 11.
+PAGE:5
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+Once you start to battle, a yellow TP
+POSX:25
+POSY:65
+will appear above the HP.
+POSX:25
+POSY:85
+This has to be 100% in order to battle,
+POSX:25
+POSY:105
+so make sure you check it.
+POSX:25
+POSY:125
+Now, lets try battling
+POSX:25
+POSY:145
+with that Yokomon over there.

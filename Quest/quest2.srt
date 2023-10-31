@@ -1,0 +1,42 @@
+QUESTID:2
+MAXPAGE:2
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+오른쪽 상단에 지도가 보이지?
+POSX:25
+POSY:65
+이걸 미니 맵이라고 불러.
+POSX:25
+POSY:85
+빨간점으로 표시된 것이 현재 우리가 있는
+POSX:25
+POSY:105
+곳이야.
+POSX:25
+POSY:125
+그리고 화살표로 된 것이 '포털'이라는 것
+POSX:25
+POSY:145
+인데 다른 장소로 이동하는 곳이야.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:4
+POSX:25
+POSY:45
+이제 다른 곳으로 이동해보자.
+POSX:25
+POSY:65
+미니맵의 화살표가 있는 쪽으로 가면 바닥에
+POSX:25
+POSY:85
+움직이는 동그란 오라모양이 있을거야.
+POSX:25
+POSY:105
+그곳을 클릭하면 이동하게 되.

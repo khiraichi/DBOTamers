@@ -1,0 +1,65 @@
+QUESTID:10
+MAXPAGE:3
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+이제 진화하는 방법에 대해 배워보자.
+POSX:25
+POSY:65
+진화에는 3단계가 있는데,
+POSX:25
+POSY:85
+성숙기,완전체,궁극체가 있어.
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+성숙기는 레벨 21
+POSX:25
+POSY:65
+완전체는 레벨 31
+POSX:25
+POSY:85
+궁극체는 레벨 41이 되면
+POSX:25
+POSY:105
+자동으로 진화하는거야.
+POSX:25
+POSY:125
+진화하기 위해선 레벨업을 해야만 하고,
+POSX:25
+POSY:145
+레벨업을 하기 위해선 많은 경험치가 필요해.
+POSX:25
+POSY:165
+경험치는 배틀에서 승리해야만 얻을 수 있어.
+PAGE:3
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+아래쪽을 보면 EXP라는 것이 보일 꺼야.
+POSX:25
+POSY:65
+그것이 바로 경험치를 나타내는 것인데..
+POSX:25
+POSY:85
+100%를 채우게 되면 다음레벨로 올라가는 거야.
+POSX:25
+POSY:105
+그렇게 한단계씩 레벨업을 하다 보면
+POSX:25
+POSY:125
+다음단계로 진화를 할 수 있어..
+POSX:25
+POSY:145
+그럼 이제 열심히 해 보자~ 파이팅!

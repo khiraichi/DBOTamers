@@ -1,0 +1,84 @@
+QUESTID:3
+MAXPAGE:5
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:4
+POSX:25
+POSY:45
+저기 길거리에 돌아다니는 디지몬들 보이지?
+POSX:25
+POSY:65
+그 디지몬을 클릭하면 배틀을 할 수 있어.
+POSX:25
+POSY:85
+잠깐 기다려.
+POSX:25
+POSY:105
+내가 배틀 방법에 대해 가르쳐 줄께.
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:5
+POSX:25
+POSY:45
+오른쪽 아래 보면 빨간색 HP가 있을 거야.
+POSX:25
+POSY:65
+이것이 바로 너의 파트너인 내 체력이야.
+POSX:25
+POSY:85
+적에게 공격 당하면 이것이 줄어들고 모두 
+POSX:25
+POSY:105
+없어지면 난 쓰러지게되.
+POSX:25
+POSY:125
+배틀에서 패배하는 거지.
+PAGE:3
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+또 파란색의 VP는 필살기 기술을 사용할 때
+POSX:25
+POSY:65
+필요한 능력치야.
+POSX:25
+POSY:105
+필살기는 레벨 6이상이 되면 사용할수 있어.
+PAGE:4
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:2
+POSX:25
+POSY:45
+그 밑에 EVP는 진화 포인트인데,
+POSX:25
+POSY:65
+레벨 11이상이 되면 진화할수 있어.
+PAGE:5
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:5
+POSX:25
+POSY:45
+그리고 배틀에 들어가면 HP위쪽에 노란색으로
+POSX:25
+POSY:65
+TP라는 것이 나오는데.
+POSX:25
+POSY:85
+이것이 100%가 되어야 공격을 할수 있으니까 
+POSX:25
+POSY:105
+잘 확인해야해.
+POSX:25
+POSY:145
+이제 저기 보이는 어니몬과 배틀을 해 보자.

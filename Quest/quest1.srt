@@ -1,0 +1,105 @@
+QUESTID:1
+MAXPAGE:5
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+너를 대신해서 서 있는 이 아이는
+POSX:25
+POSY:65
+테이머라고 불러.
+POSX:25
+POSY:85
+테이머는 디지몬에게 있어서서
+POSX:25
+POSY:105
+매우 중요한 존재야.
+POSX:25
+POSY:125
+왜냐하면 디지몬은 테이머가 있어야
+POSX:25
+POSY:145
+진화할수 있거든.
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:5
+POSX:25
+POSY:45
+화면 아래쪽을 보면 가운데에
+POSX:25
+POSY:65
+디지몬 문장으로 된 아이콘들이 있을 꺼야.
+POSX:25
+POSY:85
+그 버튼들은 각각의 필요한 정보를 보여주는
+POSX:25
+POSY:105
+창의 버튼이야.
+POSX:25
+POSY:125
+마우스를 올려 보면 버튼의 이름이 나와.
+PAGE:3
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+거기서 '테이머정보'라고 되어 있는
+POSX:25
+POSY:65
+버튼을 눌러봐.
+POSX:25
+POSY:85
+키보드의 'T'를 눌러도 되거든..
+POSX:25
+POSY:105
+이 정보창은 너 자신에 대한 정보를
+POSX:25
+POSY:125
+보여주는 창이야.
+PAGE:4
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+그리고 '디지몬정보'라고 되어 있는
+POSX:25
+POSY:65
+버튼을 눌러봐.
+POSX:25
+POSY:85
+키보드의 'D'를 눌러도 되거든..
+POSX:25
+POSY:105
+이 정보창은 현재 너의 파트너인 나 대한
+POSX:25
+POSY:125
+정보를 보여주는 창이야.
+PAGE:5
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+그리고 '인벤토리'라고 되어 있는
+POSX:25
+POSY:65
+버튼을 눌러봐.
+POSX:25
+POSY:85
+키보드의 'I'를 눌러도 되거든..
+POSX:25
+POSY:105
+지금은 아무것도 없지만 여러 가지 아이템을
+POSX:25
+POSY:125
+얻게 되면 이곳에 표시되지.

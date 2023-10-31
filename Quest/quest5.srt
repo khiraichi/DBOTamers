@@ -1,0 +1,39 @@
+QUESTID:5
+MAXPAGE:2
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+이제 준비한 카드를 배틀 중에 사용해보자.
+POSX:25
+POSY:65
+배틀에 들어가면 화면 상단에 CARD SLASH라는 
+POSX:25
+POSY:85
+창이 있을거야.
+POSX:25
+POSY:105
+거기를 클릭하면 네가 준비한 카드들이 나와 
+POSX:25
+POSY:125
+그 중에 네가 사용하고 싶은 카드를 클릭하면
+POSX:25
+POSY:145
+되는 거야.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+배틀 중엔 한번에 총 3장의 카드를 동시에
+POSX:25
+POSY:65
+사용 할 수 있어.
+POSX:25
+POSY:85
+이제 한번 배틀에서 카드를 사용해 보자.

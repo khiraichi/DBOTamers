@@ -1,0 +1,73 @@
+QUESTID:8
+MAXPAGE:4
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:3
+POSX:25
+POSY:45
+이제 스탯 올리는 방법을 배워 보자.
+POSX:25
+POSY:65
+우선 '디지몬 정보'창을 열어줘.
+POSX:25
+POSY:86
+키보드 'D'를 눌러도 되.
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+디지몬 정보창를 보면 나에 대한 정보가
+POSX:25
+POSY:65
+나와 있어.
+POSX:25
+POSY:85
+거기 보면 PT라는 것이 있고. 밑에 노란색 
+POSX:25
+POSY:105
+삼각형이 있을꺼야.
+POSX:25
+POSY:125
+그것을 누르면 해당 능력이 증가하는데,
+POSX:25
+POSY:145
+우선 설명을 듣고 누르도록 해.
+PAGE:3
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+기본 능력에는 힘,민첩성,건강,지능이 있어.
+POSX:25
+POSY:65
+힘은 공격력을 높일 수 있어.
+POSX:25
+POSY:85
+민첩성은 적의 공격을 피하거나 공격을 
+POSX:25
+POSY:105
+빨리 할수 있게 되.
+POSX:25
+POSY:125
+건강은 체력을 높일 수 있어.
+POSX:25
+POSY:145
+지능은 필살기를 강하게 만들지.
+PAGE:4
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:2
+POSX:25
+POSY:45
+이 4가지 능력치는 PT수치만큼 올릴수 있어.
+POSX:25
+POSY:64
+이제 스탯을 올려 봐.

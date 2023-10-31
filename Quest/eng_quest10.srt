@@ -1,0 +1,69 @@
+QUESTID:10
+MAXPAGE:3
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+Now, let's learn about evolution.
+POSX:25
+POSY:65
+There are three levels of evolution:
+POSX:25
+POSY:85
+Champion, Ultimate and Mega
+PAGE:2
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+Champion evolution is level 21.
+POSX:25
+POSY:65
+Ultimate evolution is level 31.
+POSX:25
+POSY:85
+Mega evolution is level 41.
+POSX:25
+POSY:105
+You should level up for evolution,
+POSX:25
+POSY:125
+and in order to level up you
+POSX:25
+POSY:145
+will need much EXP.
+POSX:25
+POSY:165
+You can earn EXP by winning battles.
+PAGE:3
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+Look down. You can see EXP.
+POSX:25
+POSY:65
+EXP represents the experience level.
+POSX:25
+POSY:85
+If you fill 100% of the experience level, 
+POSX:25
+POSY:105
+you can go to next level.
+POSX:25
+POSY:125
+As you continue to level up,
+POSX:25
+POSY:145
+you can evolve.
+POSX:25
+POSY:165
+Ok, now lets start! Lets fight!
+

@@ -1,0 +1,49 @@
+QUESTID:2
+MAXPAGE:2
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+Do you see the map on the upper right?
+POSX:25
+POSY:65
+This is called a mini-map.
+POSX:25
+POSY:85
+The red mark shows where you are now.
+POSX:25
+POSY:105
+....
+POSX:25
+POSY:125
+The arrow shows a portal.
+POSX:25
+POSY:145
+Portals can take you to a different location.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+Lets try moving to a different location.
+POSX:25
+POSY:65
+Move to the right in the direction shown 
+POSX:25
+POSY:85
+by the arrow on the mini-map
+POSX:25
+POSY:105
+and you will see a round in the shape of 
+POSX:25
+POSY:125
+aura moving on the ground.
+POSX:25
+POSY:145
+If you click on a location, you can go there.
+

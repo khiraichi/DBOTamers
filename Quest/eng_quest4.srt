@@ -1,0 +1,73 @@
+QUESTID:4
+MAXPAGE:3
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+You¡¯ve Get a card?
+POSX:25
+POSY:65
+A card can be used during a battle.
+POSX:25
+POSY:85
+You should prepare cards before
+POSX:25
+POSY:105
+a battle in order to use them.
+POSX:25
+POSY:125
+To prepare cards,
+POSX:25
+POSY:145
+insert cards into the slots found 
+POSX:25
+POSY:165
+on the bottom of your inventory.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:5
+POSX:25
+POSY:45
+You now have cards in your inventory.
+POSX:25
+POSY:65
+But from now on,
+POSX:25
+POSY:85
+they will be on the ground
+POSX:25
+POSY:105
+so don¡¯t forget to pick them up.
+POSX:25
+POSY:145
+Now open your inventory window.
+PAGE:3
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+Try Inserting the tutorial card 
+POSX:25
+POSY:65
+into the card slot.
+POSX:25
+POSY:85
+You can pick up a card in the inventory 
+POSX:25
+POSY:105
+by clicking on it.
+POSX:25
+POSY:125
+Now
+POSX:25
+POSY:145 
+click on the slot below the card to insert it.
+
+

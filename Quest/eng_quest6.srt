@@ -1,0 +1,47 @@
+QUESTID:6
+MAXPAGE:2
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:8
+POSX:25
+POSY:27
+The item we've collected will be 
+POSX:25
+POSY:45
+in the inventory.
+POSX:25
+POSY:65
+Now lets learn how to use an item.
+POSX:25
+POSY:85
+An item is stored in your inventory,
+POSX:25
+POSY:105
+but like cards, the next time, 
+POSX:25
+POSY:125
+an item will be on the ground,
+POSX:25
+POSY:145
+so don¡¯t forget to pick them up.
+POSX:25
+POSY:165
+If you press the inventory button,
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:3
+POSX:25
+POSY:45
+the tutorial item that we've collected 
+POSX:25
+POSY:65
+will be found.
+POSX:25
+POSY:105
+Right click on the item to use.
+
+

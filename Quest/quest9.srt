@@ -1,0 +1,28 @@
+QUESTID:9
+MAXPAGE:1
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+이제 스킬을 사용 해보자.
+POSX:25
+POSY:65
+우선 스킬을 사용하려면 레벨을 6이상으로 
+POSX:25
+POSY:85
+올려야해.
+POSX:25
+POSY:105
+레벨 6이 되면 디지몬 정보창에서 스킬 포인트
+POSX:25
+POSY:125
+를 올려서 사용할 수 있어.
+POSX:25
+POSY:145
+어서 레벨을 올려서
+POSX:25
+POSY:165
+배틀 중에 스킬을 사용 해 보자.

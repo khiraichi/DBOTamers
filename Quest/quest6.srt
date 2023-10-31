@@ -1,0 +1,42 @@
+QUESTID:6
+MAXPAGE:2
+PAGE:1
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:6
+POSX:25
+POSY:45
+우리가 획득한 아이템이 인벤토리에 있을꺼야.
+POSX:25
+POSY:65
+이번엔 아이템을 사용하는 방법을 배워보자.
+POSX:25
+POSY:85
+카드랑 마찬가지로 이번에는 아이템이
+POSX:25
+POSY:105
+인벤토리에 들어 있지만,
+POSX:25
+POSY:125
+다음부턴 바닥에서 주워야만해.
+POSX:25
+POSY:145
+자 이제 인벤토리창을 열어봐.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:4
+POSX:25
+POSY:45
+인벤토리창에 있는 아이템 버튼을 누르면
+POSX:25
+POSY:65
+우리가 주운 튜토리얼 아이템이 있을 거야.
+POSX:25
+POSY:105
+그 아이템을 마우스 오른쪽 클릭하면
+POSX:25
+POSY:125
+사용하게 되는거야

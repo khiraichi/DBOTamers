@@ -1,0 +1,62 @@
+QUESTID:4
+MAXPAGE:3
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:7
+POSX:25
+POSY:45
+카드를 획득했네?
+POSX:25
+POSY:65
+카드는 배틀 중에 사용 할 수 있는 아이템이야.
+POSX:25
+POSY:85
+카드는 배틀하기전에 미리 준비를 해 놓아야만 
+POSX:25
+POSY:105
+사용할 수 있어.
+POSX:25
+POSY:125
+카드를 준비한다는 것은 인벤토리에 있는 카드를 
+POSX:25
+POSY:145
+인벤토리 아래쪽의 카드 슬롯에 이동 시키는 것
+POSX:25
+POSY:165
+을 말하는 거야.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:1
+MAXLINE:4
+POSX:25
+POSY:45
+지금은 카드가 인벤토리에 들어있을거야.
+POSX:25
+POSY:65
+하지만 다음부턴 바닥에 떨어져 있을거니까
+POSX:25
+POSY:85
+잊지말구 줍도록해.
+POSX:25
+POSY:125
+이제 인벤토리창을 열어봐.
+PAGE:3
+NEXTPAGEBTN:0
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:4
+POSX:25
+POSY:45
+획득한 튜토리얼 카드를 카드슬롯창에 옮겨봐.
+POSX:25
+POSY:65
+인벤토리에 있는 카드를 클릭하면 들 수 있어.
+POSX:25
+POSY:85
+그리고 카드 밑에 있는 카드 슬롯에
+POSX:25
+POSY:105
+클릭하면 되는거야.

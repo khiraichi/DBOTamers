@@ -1,0 +1,48 @@
+QUESTID:5
+MAXPAGE:2
+PAGE:1
+NEXTPAGEBTN:1
+ENDBTN:0
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+Now lets try using a prepared card during 
+POSX:25
+POSY:65
+a battle.  Once you are in a battle,
+POSX:25
+POSY:85
+a CARD SLASH window will appear on the top 
+POSX:25
+POSY:105
+of the screen.
+POSX:25
+POSY:125
+If you click on the window, 
+POSX:25
+POSY:145
+you can see all of your prepared cards.
+PAGE:2
+NEXTPAGEBTN:0
+ENDBTN:1
+CHSUCCESS:0
+MAXLINE:6
+POSX:25
+POSY:45
+Click on any one of the prepared cards 
+POSX:25
+POSY:65
+to use them.
+POSX:25
+POSY:85
+You can use a maximum of 3 cards
+POSX:25
+POSY:105
+at one time during a battle.
+POSX:25
+POSY:125
+Now lets try using a prepared card during 
+POSX:25
+POSY:145
+a battle.
